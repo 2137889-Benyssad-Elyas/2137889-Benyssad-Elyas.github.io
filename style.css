@@ -1,0 +1,12 @@
+table{
+
+    margin: 2cm;
+    padding: 15px;
+    border-radius: 10%;
+}
+
+td,th {
+    border: 1px solid black;
+    padding: 5px;
+    background-color: #F516 ;
+}

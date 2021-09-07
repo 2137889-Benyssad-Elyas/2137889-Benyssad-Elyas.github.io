@@ -1,3 +1,29 @@
+#head{
+    background-color: burlywood;
+}
+
+#navbar{
+    background-color: crimson;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+#name{
+    background-color: rgb(66, 66, 175);
+    color: #FFF;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 80px;
+}
+li a {
+    display: block;
+    width: 60px;
+}
+
 table{
 
     margin: 2cm;
@@ -8,5 +34,7 @@ table{
 td,th {
     border: 1px solid black;
     padding: 5px;
-    background-color: #F516 ;
+    background-color: rgba(39, 157, 204, 0.4) ;
 }
+
+
